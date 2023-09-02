@@ -8,4 +8,4 @@
 5. `git add .` - this adds the changed files to the staging area
 6. `git commit -m` "message" - this commits the changes added to the staging area, to head but not to the remote repository
 7. `git push origin master` - sends changes to the master branch of the remote repository
-8. *** Till now the initial changes have been saved to the master branch in github ***
+8. ***Till now the initial changes have been saved to the master branch in github***
