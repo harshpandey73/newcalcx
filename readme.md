@@ -1,7 +1,6 @@
 1. `git init <repo name>` - to initialise a new git in the local machine, it will start tracking the project
 
-2. Create new repo in [github.com]
-(github.com), copy the link of the repo
+2. Create new repo in [github.com](github.com), copy the link of the repo
 3. `git remote add origin <github repo link>` - this adds the "remote" to "origin" <br>
 3.1. `git remote -v` - to confirm that remote has been added
 4. Now the local repo and github repo have been linked
